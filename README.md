@@ -1,6 +1,6 @@
 <a href="https://v0.dev/community/v0-blocks-YHHaW2ztOsk">
   <img alt="V0 Blocks" src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/vibe-2.jpg-FtDn6vBQ4LxeAfTDXbzyoDxKn4erMO.jpeg">
-  <h1 align="center">V0 Blocks</h1>
+  <h1 align="center">v0 Blocks</h1>
 </a>
 
 <p align="center">
