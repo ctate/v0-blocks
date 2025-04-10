@@ -1,4 +1,4 @@
-<a href="https://v0.dev/r/hello-world">
+<a href="https://v0.dev/community/v0-blocks-YHHaW2ztOsk">
   <img alt="V0 Blocks" src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/vibe-2.jpg-FtDn6vBQ4LxeAfTDXbzyoDxKn4erMO.jpeg">
   <h1 align="center">V0 Blocks</h1>
 </a>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://v0.dev/r/hello-world">
+  <a href="https://v0.dev/community/v0-blocks-YHHaW2ztOsk">
     <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/open-in-v0-button-ZKuXSWof756tbZD6vq9OV8Xq5pZS66.svg" alt="Open in v0" width="120" />
   </a>
 </p>
@@ -17,7 +17,8 @@
   <a href="#about"><strong>About</strong></a> ·
   <a href="#how-to-use"><strong>How to Use</strong></a> ·
   <a href="#tech"><strong>Tech</strong></a> ·
-  <a href="#features"><strong>Features</strong></a>
+  <a href="#features"><strong>Features</strong></a> ·
+  <a href="#author"><strong>Author</strong></a>
 </p>
 <br/>
 
@@ -59,4 +60,7 @@ v0 Blocks is an interactive 3D block building application that lets you create, 
 - Animation mode
 - Mobile-responsive design
 - Keyboard shortcuts
-</p>
+
+## Author
+
+- Chris Tate ([@ctatedev](https://x.com/ctatedev))
