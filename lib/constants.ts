@@ -23,4 +23,3 @@ export const MARBLE_TEXTURES = {
   color:
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Marble019_1K-JPG_Color-yiNesdpa46Mn7IwRiCFo11NERCO2Yw.jpg",
 }
-

@@ -122,4 +122,3 @@ export const Tooltip: React.FC<TooltipProps> = ({ text, position = "top", childr
     </div>
   )
 }
-

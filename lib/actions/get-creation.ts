@@ -20,4 +20,3 @@ export async function getCreation(id: string) {
     return { success: false, message: "Failed to get creation." }
   }
 }
-

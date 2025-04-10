@@ -20,4 +20,3 @@ export const MaybeTooltip: React.FC<MaybeTooltipProps> = ({ text, children, isMo
     </SimpleTooltip>
   )
 }
-

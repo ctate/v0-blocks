@@ -56,4 +56,3 @@ export const COLOR_THEMES: Record<ColorTheme, string[]> = {
     "#111111", // Near Black
   ],
 }
-

@@ -143,4 +143,3 @@ export const Block: React.FC<BlockProps> = ({
     </group>
   )
 }
-

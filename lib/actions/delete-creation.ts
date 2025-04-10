@@ -19,4 +19,3 @@ export async function deleteCreation(id: string) {
     return { success: false, message: "Failed to delete creation." }
   }
 }
-

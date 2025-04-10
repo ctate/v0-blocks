@@ -34,4 +34,3 @@ export const FileControls: React.FC<FileControlsProps> = ({ onSave, onLoad, isMo
     </div>
   )
 }
-

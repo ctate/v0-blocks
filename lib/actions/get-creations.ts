@@ -41,4 +41,3 @@ export async function getCreations(limit = 10, offset = 0) {
     return { success: false, message: `Failed to get creations: ${error.message}` }
   }
 }
-

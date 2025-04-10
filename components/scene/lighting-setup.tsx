@@ -47,4 +47,3 @@ export const LightingSetup: React.FC = () => {
     </>
   )
 }
-

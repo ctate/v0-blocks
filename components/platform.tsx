@@ -33,4 +33,3 @@ export const Platform: React.FC = () => {
     </group>
   )
 }
-

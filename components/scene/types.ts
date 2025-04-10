@@ -12,4 +12,3 @@ export interface SceneProps {
   isPlaying: boolean
   interactionMode?: "build" | "move" | "erase"
 }
-

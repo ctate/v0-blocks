@@ -46,4 +46,3 @@ export const ClearConfirmationModal: React.FC<ClearConfirmationModalProps> = ({ 
     </Dialog>
   )
 }
-

@@ -128,4 +128,3 @@ export function useLocalStorage({
     }
   }, [bricks, width, depth, selectedColor, currentTheme, currentCreationId, currentCreationName])
 }
-

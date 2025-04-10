@@ -42,4 +42,3 @@ export const IntegrationCheckDialog: React.FC<IntegrationCheckDialogProps> = ({ 
     </Dialog>
   )
 }
-

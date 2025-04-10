@@ -7,4 +7,3 @@ export interface BlockProps {
   opacity?: number
   onClick?: () => void
 }
-

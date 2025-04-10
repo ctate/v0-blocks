@@ -25,4 +25,3 @@ export async function isKvConfigured(): Promise<boolean> {
     return false
   }
 }
-

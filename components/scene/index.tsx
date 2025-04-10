@@ -102,4 +102,3 @@ export const Scene: React.FC<SceneProps> = ({
     </>
   )
 }
-

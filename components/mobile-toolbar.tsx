@@ -35,4 +35,3 @@ export const MobileToolbar: React.FC<MobileToolbarProps> = ({ onModeChange, curr
     </div>
   )
 }
-

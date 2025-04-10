@@ -350,4 +350,3 @@ export function useSceneInteraction({
     planeRef,
   }
 }
-

@@ -79,4 +79,3 @@ export const ActionToolbar: React.FC<ActionToolbarProps> = ({ onModeChange, curr
     </div>
   )
 }
-

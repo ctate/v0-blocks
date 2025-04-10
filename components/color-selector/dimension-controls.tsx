@@ -141,4 +141,3 @@ export const DimensionControls: React.FC<DimensionControlsProps> = ({
     </div>
   )
 }
-

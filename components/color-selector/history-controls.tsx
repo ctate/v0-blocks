@@ -42,4 +42,3 @@ export const HistoryControls: React.FC<HistoryControlsProps> = ({ onUndo, onRedo
     </div>
   )
 }
-

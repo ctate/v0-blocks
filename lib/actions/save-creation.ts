@@ -33,4 +33,3 @@ export async function saveCreation(name: string, bricks: Brick[]) {
     return { success: false, message: "Failed to save creation." }
   }
 }
-

@@ -40,4 +40,3 @@ export async function updateCreation(id: string, name: string, bricks: Brick[]) 
     return { success: false, message: "Failed to update creation." }
   }
 }
-

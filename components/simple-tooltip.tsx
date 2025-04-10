@@ -47,4 +47,3 @@ export const SimpleTooltip: React.FC<SimpleTooltipProps> = ({ text, position = "
     </div>
   )
 }
-

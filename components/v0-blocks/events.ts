@@ -102,4 +102,3 @@ export const handleClearSet = (
 export const handlePlayToggle = (isPlaying: boolean, setIsPlaying: Dispatch<SetStateAction<boolean>>) => {
   setIsPlaying(!isPlaying)
 }
-

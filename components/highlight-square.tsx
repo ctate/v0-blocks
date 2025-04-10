@@ -16,4 +16,3 @@ export const HighlightSquare: React.FC<HighlightSquareProps> = ({ position, isVa
     </mesh>
   )
 }
-

@@ -103,4 +103,3 @@ export const SaveModal: React.FC<SaveModalProps> = ({ isOpen, onClose, bricks, c
     </Dialog>
   )
 }
-

@@ -39,4 +39,3 @@ export const ClearModal: React.FC<ClearModalProps> = ({ isOpen, onClose, onClear
     </Dialog>
   )
 }
-

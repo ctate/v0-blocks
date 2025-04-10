@@ -23,4 +23,3 @@ export const LargePlane: React.FC = () => {
     </mesh>
   )
 }
-

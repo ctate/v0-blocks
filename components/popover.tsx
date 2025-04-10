@@ -98,4 +98,3 @@ export const Popover: React.FC<PopoverProps> = ({ isOpen, onClose, anchor, child
     </div>
   )
 }
-

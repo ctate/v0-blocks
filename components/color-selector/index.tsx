@@ -114,4 +114,3 @@ export const ColorSelector: React.FC<ColorSelectorProps> = ({
     </div>
   )
 }
-

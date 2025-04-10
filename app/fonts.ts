@@ -5,4 +5,3 @@ export const geistSans = Geist({
   display: "swap",
   variable: "--font-geist-sans",
 })
-
